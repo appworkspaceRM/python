@@ -30,20 +30,18 @@ Kata kunci argumen adalah nilai yang, ketika dikirimkan ke suatu fungsi, dapat d
 > Complex Number Start
 
 > English
-<sup>Complex number is an element of a number system that extends the real numbers with a specific element denoted. In programming, a complex number is a data type that reppresents a number with both a real part and an imaginary part, Like in mathematics, a complex number in programming is typically denoted as "a+bi" where "a" is the real part, "b" is the imaginary part and "i" is the imaginary unit.
-
-many programming languages provide built-in support for complex numbers as a data type. These complex number data types allow you to perform various operations involving real and imaginary components. Common operation include addition, subbstraction, multiplication, division and complex conjugation.
- </sup>
+<sup>Complex number is an element of a number system that extends the real numbers with a specific element denoted. In programming, a complex number is a data type that reppresents a number with both a real part and an imaginary part, Like in mathematics, a complex number in programming is typically denoted as "a+bi" where "a" is the real part, "b" is the imaginary part and "i" is the imaginary unit.</sup>
+<sup>many programming languages provide built-in support for complex numbers as a data type. These complex number data types allow you to perform various operations involving real and imaginary components. Common operation include addition, subbstraction, multiplication, division and complex conjugation.</sup>
+ 
 
 >
 
 > Indonesia
-<sup>Kompleks number adalah unsur pada sistem angka yang merupakan perluasan bilangan nyata dengan lambang tertentu. Dalam Pemrigraman, biilangan kompleks adalah tipe data yang merepresentasikan bilangan dengan bagian bilangan nyata dan bagian imajiner. Seperti dalam matematika blangan kompleks dalam pemrograman biasanya dilambangkan dengan "a+bi" dimana "a" adalah bilangan real, "b" adalah bagian dari imajiner dan "i" adalah satuan imajiner.
-
-banyak bahasa pemrograman yang menyediakan dukungan terhadap bilangan kompleks sebagai tipe data. Tipe data bilangan kompleks ini memungkinkan anda melakukan berbagai ioerasi yang melibatkan komponen nyata dan imajiner. Operasi umum meliputi penjumlahan, penguranga, perkalian, pembagian dan konjungsi kompleks</sup>
+<sup>Kompleks number adalah unsur pada sistem angka yang merupakan perluasan bilangan nyata dengan lambang tertentu. Dalam Pemrigraman, biilangan kompleks adalah tipe data yang merepresentasikan bilangan dengan bagian bilangan nyata dan bagian imajiner. Seperti dalam matematika blangan kompleks dalam pemrograman biasanya dilambangkan dengan "a+bi" dimana "a" adalah bilangan real, "b" adalah bagian dari imajiner dan "i" adalah satuan imajiner.</sup>
+<sup>banyak bahasa pemrograman yang menyediakan dukungan terhadap bilangan kompleks sebagai tipe data. Tipe data bilangan kompleks ini memungkinkan anda melakukan berbagai ioerasi yang melibatkan komponen nyata dan imajiner. Operasi umum meliputi penjumlahan, penguranga, perkalian, pembagian dan konjungsi kompleks</sup>
 
 > Example
-```
+``` python
 z1 = 3 + 2j  # 3 is the real part, 2 is the imaginary part
 z2 = 1 - 4j  # 1 is the real part, -4 is the imaginary part
 
@@ -65,5 +63,6 @@ imaginary_part = z1.imag
 print("Real part of z1:", real_part)
 print("Imaginary part of z1:", imaginary_part)
 ```
+
 > Complex Number End
 ** installation **
